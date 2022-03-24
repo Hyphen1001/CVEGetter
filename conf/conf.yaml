@@ -1,0 +1,19 @@
+LogLevel: "error"
+
+GoRoutineLockPoolSize: 50
+
+#当前支持的语言：c,cpp,java,python,go
+AimLanguages:
+  - "c"
+  - "cpp"
+  - "java"
+  - "python"
+  - "go"
+
+#github personal token，为数组，大小任意
+GithubTokens:
+  - "token"
+  - "token"
+GithubAPIURL: "https://api.github.com/graphql"
+GithubUsername: "your_username"
+GithubPassword: "your_password"
