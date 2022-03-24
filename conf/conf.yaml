@@ -1,6 +1,7 @@
 LogLevel: "error"
 
 GoRoutineLockPoolSize: 50
+GitAPIRateLimit: 160
 
 #当前支持的语言：c,cpp,java,python,go
 AimLanguages:

@@ -11,6 +11,7 @@ type Config struct {
 	LogLevel string `yaml:"LogLevel"`
 
 	GoRoutineLockPoolSize int `yaml:"GoRoutineLockPoolSize"`
+	GitAPIRateLimit       int `yaml:"GitAPIRateLimit"`
 
 	AimLanguages    []string `yaml:"AimLanguages"`
 	AimLanguagesMap map[string]bool

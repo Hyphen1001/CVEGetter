@@ -1,6 +1,7 @@
 package utils
 
 import (
+	"edu.buaa.soft/CVEGetter/config"
 	"edu.buaa.soft/CVEGetter/utils/pool"
 	"net/http"
 	"strings"
@@ -18,7 +19,7 @@ var (
 // GitRateLimit 限速是为了确保每小时访问git API次数不超过5000
 func GitRateLimit() {
 	timeLock.Lock()
-	time.Sleep(160 * time.Millisecond)
+	time.Sleep(time.Duration(config.LoadConfig().GitAPIRateLimit) * time.Millisecond)
 	timeLock.Unlock()
 }
 
