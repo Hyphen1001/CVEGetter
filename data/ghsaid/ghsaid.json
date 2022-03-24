@@ -1,0 +1,802 @@
+[
+  {
+    "name": "GHSA-229r-pqp6-8w6g.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-229r-pqp6-8w6g/GHSA-229r-pqp6-8w6g.json",
+    "sha": "e8f05e0376f6efe95903f0ae867c5914979ef3a7",
+    "size": 1655,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-229r-pqp6-8w6g/GHSA-229r-pqp6-8w6g.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-229r-pqp6-8w6g/GHSA-229r-pqp6-8w6g.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/e8f05e0376f6efe95903f0ae867c5914979ef3a7",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-229r-pqp6-8w6g/GHSA-229r-pqp6-8w6g.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-229r-pqp6-8w6g/GHSA-229r-pqp6-8w6g.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/e8f05e0376f6efe95903f0ae867c5914979ef3a7",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-229r-pqp6-8w6g/GHSA-229r-pqp6-8w6g.json"
+    }
+  },
+  {
+    "name": "GHSA-24fg-p96v-hxh8.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-24fg-p96v-hxh8/GHSA-24fg-p96v-hxh8.json",
+    "sha": "3bbad4e0195011f4f9cd153f4326dc8e66133d46",
+    "size": 3029,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-24fg-p96v-hxh8/GHSA-24fg-p96v-hxh8.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-24fg-p96v-hxh8/GHSA-24fg-p96v-hxh8.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/3bbad4e0195011f4f9cd153f4326dc8e66133d46",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-24fg-p96v-hxh8/GHSA-24fg-p96v-hxh8.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-24fg-p96v-hxh8/GHSA-24fg-p96v-hxh8.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/3bbad4e0195011f4f9cd153f4326dc8e66133d46",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-24fg-p96v-hxh8/GHSA-24fg-p96v-hxh8.json"
+    }
+  },
+  {
+    "name": "GHSA-29gr-w57f-rpfw.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-29gr-w57f-rpfw/GHSA-29gr-w57f-rpfw.json",
+    "sha": "a2dffb343891c5d1441515dcd67911b8e9b62e46",
+    "size": 2389,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-29gr-w57f-rpfw/GHSA-29gr-w57f-rpfw.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-29gr-w57f-rpfw/GHSA-29gr-w57f-rpfw.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/a2dffb343891c5d1441515dcd67911b8e9b62e46",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-29gr-w57f-rpfw/GHSA-29gr-w57f-rpfw.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-29gr-w57f-rpfw/GHSA-29gr-w57f-rpfw.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/a2dffb343891c5d1441515dcd67911b8e9b62e46",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-29gr-w57f-rpfw/GHSA-29gr-w57f-rpfw.json"
+    }
+  },
+  {
+    "name": "GHSA-2fqv-h3r5-m4vf.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-2fqv-h3r5-m4vf/GHSA-2fqv-h3r5-m4vf.json",
+    "sha": "dabbb5430b129ab59d60aa30fdf90218386570be",
+    "size": 1653,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-2fqv-h3r5-m4vf/GHSA-2fqv-h3r5-m4vf.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-2fqv-h3r5-m4vf/GHSA-2fqv-h3r5-m4vf.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/dabbb5430b129ab59d60aa30fdf90218386570be",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-2fqv-h3r5-m4vf/GHSA-2fqv-h3r5-m4vf.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-2fqv-h3r5-m4vf/GHSA-2fqv-h3r5-m4vf.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/dabbb5430b129ab59d60aa30fdf90218386570be",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-2fqv-h3r5-m4vf/GHSA-2fqv-h3r5-m4vf.json"
+    }
+  },
+  {
+    "name": "GHSA-2xjj-5x6h-8vmf.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-2xjj-5x6h-8vmf/GHSA-2xjj-5x6h-8vmf.json",
+    "sha": "de010a13a4c47f457efba733dc4a0893429281ce",
+    "size": 2963,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-2xjj-5x6h-8vmf/GHSA-2xjj-5x6h-8vmf.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-2xjj-5x6h-8vmf/GHSA-2xjj-5x6h-8vmf.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/de010a13a4c47f457efba733dc4a0893429281ce",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-2xjj-5x6h-8vmf/GHSA-2xjj-5x6h-8vmf.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-2xjj-5x6h-8vmf/GHSA-2xjj-5x6h-8vmf.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/de010a13a4c47f457efba733dc4a0893429281ce",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-2xjj-5x6h-8vmf/GHSA-2xjj-5x6h-8vmf.json"
+    }
+  },
+  {
+    "name": "GHSA-333x-9vgq-v2j4.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-333x-9vgq-v2j4/GHSA-333x-9vgq-v2j4.json",
+    "sha": "118e53f5972b2a18f73f8062c310daae2395de42",
+    "size": 1967,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-333x-9vgq-v2j4/GHSA-333x-9vgq-v2j4.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-333x-9vgq-v2j4/GHSA-333x-9vgq-v2j4.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/118e53f5972b2a18f73f8062c310daae2395de42",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-333x-9vgq-v2j4/GHSA-333x-9vgq-v2j4.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-333x-9vgq-v2j4/GHSA-333x-9vgq-v2j4.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/118e53f5972b2a18f73f8062c310daae2395de42",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-333x-9vgq-v2j4/GHSA-333x-9vgq-v2j4.json"
+    }
+  },
+  {
+    "name": "GHSA-33pp-3763-mrfp.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-33pp-3763-mrfp/GHSA-33pp-3763-mrfp.json",
+    "sha": "f9900de45277d0ad513d94b6da081a9bf85b7d62",
+    "size": 6013,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-33pp-3763-mrfp/GHSA-33pp-3763-mrfp.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-33pp-3763-mrfp/GHSA-33pp-3763-mrfp.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/f9900de45277d0ad513d94b6da081a9bf85b7d62",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-33pp-3763-mrfp/GHSA-33pp-3763-mrfp.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-33pp-3763-mrfp/GHSA-33pp-3763-mrfp.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/f9900de45277d0ad513d94b6da081a9bf85b7d62",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-33pp-3763-mrfp/GHSA-33pp-3763-mrfp.json"
+    }
+  },
+  {
+    "name": "GHSA-34r7-q49f-h37c.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-34r7-q49f-h37c/GHSA-34r7-q49f-h37c.json",
+    "sha": "5c0342386223b40db66b01f0c327c7d3afc6a4e5",
+    "size": 1983,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-34r7-q49f-h37c/GHSA-34r7-q49f-h37c.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-34r7-q49f-h37c/GHSA-34r7-q49f-h37c.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/5c0342386223b40db66b01f0c327c7d3afc6a4e5",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-34r7-q49f-h37c/GHSA-34r7-q49f-h37c.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-34r7-q49f-h37c/GHSA-34r7-q49f-h37c.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/5c0342386223b40db66b01f0c327c7d3afc6a4e5",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-34r7-q49f-h37c/GHSA-34r7-q49f-h37c.json"
+    }
+  },
+  {
+    "name": "GHSA-3crr-9vmg-864v.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-3crr-9vmg-864v/GHSA-3crr-9vmg-864v.json",
+    "sha": "fb3853463730dec062bd46dd37fddd22f39cb96e",
+    "size": 3344,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-3crr-9vmg-864v/GHSA-3crr-9vmg-864v.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-3crr-9vmg-864v/GHSA-3crr-9vmg-864v.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/fb3853463730dec062bd46dd37fddd22f39cb96e",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-3crr-9vmg-864v/GHSA-3crr-9vmg-864v.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-3crr-9vmg-864v/GHSA-3crr-9vmg-864v.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/fb3853463730dec062bd46dd37fddd22f39cb96e",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-3crr-9vmg-864v/GHSA-3crr-9vmg-864v.json"
+    }
+  },
+  {
+    "name": "GHSA-3fx5-fwvr-xrjg.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-3fx5-fwvr-xrjg/GHSA-3fx5-fwvr-xrjg.json",
+    "sha": "15a7fbafc64c68736385b55b3f7a272adb80c558",
+    "size": 2284,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-3fx5-fwvr-xrjg/GHSA-3fx5-fwvr-xrjg.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-3fx5-fwvr-xrjg/GHSA-3fx5-fwvr-xrjg.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/15a7fbafc64c68736385b55b3f7a272adb80c558",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-3fx5-fwvr-xrjg/GHSA-3fx5-fwvr-xrjg.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-3fx5-fwvr-xrjg/GHSA-3fx5-fwvr-xrjg.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/15a7fbafc64c68736385b55b3f7a272adb80c558",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-3fx5-fwvr-xrjg/GHSA-3fx5-fwvr-xrjg.json"
+    }
+  },
+  {
+    "name": "GHSA-3m6r-39p3-jq25.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-3m6r-39p3-jq25/GHSA-3m6r-39p3-jq25.json",
+    "sha": "9716ee0af2198ae16b9e8f634efb15aa8ea5a388",
+    "size": 2044,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-3m6r-39p3-jq25/GHSA-3m6r-39p3-jq25.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-3m6r-39p3-jq25/GHSA-3m6r-39p3-jq25.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/9716ee0af2198ae16b9e8f634efb15aa8ea5a388",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-3m6r-39p3-jq25/GHSA-3m6r-39p3-jq25.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-3m6r-39p3-jq25/GHSA-3m6r-39p3-jq25.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/9716ee0af2198ae16b9e8f634efb15aa8ea5a388",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-3m6r-39p3-jq25/GHSA-3m6r-39p3-jq25.json"
+    }
+  },
+  {
+    "name": "GHSA-3pxh-h8hw-mj8w.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-3pxh-h8hw-mj8w/GHSA-3pxh-h8hw-mj8w.json",
+    "sha": "b40c1efa9376ac1f75b64b7cf50d5ba7c1772721",
+    "size": 2669,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-3pxh-h8hw-mj8w/GHSA-3pxh-h8hw-mj8w.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-3pxh-h8hw-mj8w/GHSA-3pxh-h8hw-mj8w.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/b40c1efa9376ac1f75b64b7cf50d5ba7c1772721",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-3pxh-h8hw-mj8w/GHSA-3pxh-h8hw-mj8w.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-3pxh-h8hw-mj8w/GHSA-3pxh-h8hw-mj8w.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/b40c1efa9376ac1f75b64b7cf50d5ba7c1772721",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-3pxh-h8hw-mj8w/GHSA-3pxh-h8hw-mj8w.json"
+    }
+  },
+  {
+    "name": "GHSA-3vfw-7rcp-3xgm.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-3vfw-7rcp-3xgm/GHSA-3vfw-7rcp-3xgm.json",
+    "sha": "680563345a1dd0912f82f07785cd75e5ea200b87",
+    "size": 2301,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-3vfw-7rcp-3xgm/GHSA-3vfw-7rcp-3xgm.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-3vfw-7rcp-3xgm/GHSA-3vfw-7rcp-3xgm.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/680563345a1dd0912f82f07785cd75e5ea200b87",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-3vfw-7rcp-3xgm/GHSA-3vfw-7rcp-3xgm.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-3vfw-7rcp-3xgm/GHSA-3vfw-7rcp-3xgm.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/680563345a1dd0912f82f07785cd75e5ea200b87",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-3vfw-7rcp-3xgm/GHSA-3vfw-7rcp-3xgm.json"
+    }
+  },
+  {
+    "name": "GHSA-4936-rj25-6wm6.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-4936-rj25-6wm6/GHSA-4936-rj25-6wm6.json",
+    "sha": "b05c91fdcaf2485818e350b4f7cd1f2d24d0fa22",
+    "size": 2397,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-4936-rj25-6wm6/GHSA-4936-rj25-6wm6.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-4936-rj25-6wm6/GHSA-4936-rj25-6wm6.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/b05c91fdcaf2485818e350b4f7cd1f2d24d0fa22",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-4936-rj25-6wm6/GHSA-4936-rj25-6wm6.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-4936-rj25-6wm6/GHSA-4936-rj25-6wm6.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/b05c91fdcaf2485818e350b4f7cd1f2d24d0fa22",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-4936-rj25-6wm6/GHSA-4936-rj25-6wm6.json"
+    }
+  },
+  {
+    "name": "GHSA-4c4w-3q45-hp9j.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-4c4w-3q45-hp9j/GHSA-4c4w-3q45-hp9j.json",
+    "sha": "a40095a357e85e98438bf1631053bf2674921d8b",
+    "size": 1624,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-4c4w-3q45-hp9j/GHSA-4c4w-3q45-hp9j.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-4c4w-3q45-hp9j/GHSA-4c4w-3q45-hp9j.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/a40095a357e85e98438bf1631053bf2674921d8b",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-4c4w-3q45-hp9j/GHSA-4c4w-3q45-hp9j.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-4c4w-3q45-hp9j/GHSA-4c4w-3q45-hp9j.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/a40095a357e85e98438bf1631053bf2674921d8b",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-4c4w-3q45-hp9j/GHSA-4c4w-3q45-hp9j.json"
+    }
+  },
+  {
+    "name": "GHSA-4jm3-pfpf-h54p.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-4jm3-pfpf-h54p/GHSA-4jm3-pfpf-h54p.json",
+    "sha": "e65fcfcfd5f01b02789f5ad3b0801efc5f7ec2b8",
+    "size": 1694,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-4jm3-pfpf-h54p/GHSA-4jm3-pfpf-h54p.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-4jm3-pfpf-h54p/GHSA-4jm3-pfpf-h54p.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/e65fcfcfd5f01b02789f5ad3b0801efc5f7ec2b8",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-4jm3-pfpf-h54p/GHSA-4jm3-pfpf-h54p.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-4jm3-pfpf-h54p/GHSA-4jm3-pfpf-h54p.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/e65fcfcfd5f01b02789f5ad3b0801efc5f7ec2b8",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-4jm3-pfpf-h54p/GHSA-4jm3-pfpf-h54p.json"
+    }
+  },
+  {
+    "name": "GHSA-4whc-pp4x-9pf3.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-4whc-pp4x-9pf3/GHSA-4whc-pp4x-9pf3.json",
+    "sha": "f8244cdff52be7d4832f1e4ed232a66f086a8f42",
+    "size": 3050,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-4whc-pp4x-9pf3/GHSA-4whc-pp4x-9pf3.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-4whc-pp4x-9pf3/GHSA-4whc-pp4x-9pf3.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/f8244cdff52be7d4832f1e4ed232a66f086a8f42",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-4whc-pp4x-9pf3/GHSA-4whc-pp4x-9pf3.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-4whc-pp4x-9pf3/GHSA-4whc-pp4x-9pf3.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/f8244cdff52be7d4832f1e4ed232a66f086a8f42",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-4whc-pp4x-9pf3/GHSA-4whc-pp4x-9pf3.json"
+    }
+  },
+  {
+    "name": "GHSA-4ww3-3rxj-8v6q.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-4ww3-3rxj-8v6q/GHSA-4ww3-3rxj-8v6q.json",
+    "sha": "07902df1df51b247f7bb78e8767c3d86b84a43d5",
+    "size": 2003,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-4ww3-3rxj-8v6q/GHSA-4ww3-3rxj-8v6q.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-4ww3-3rxj-8v6q/GHSA-4ww3-3rxj-8v6q.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/07902df1df51b247f7bb78e8767c3d86b84a43d5",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-4ww3-3rxj-8v6q/GHSA-4ww3-3rxj-8v6q.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-4ww3-3rxj-8v6q/GHSA-4ww3-3rxj-8v6q.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/07902df1df51b247f7bb78e8767c3d86b84a43d5",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-4ww3-3rxj-8v6q/GHSA-4ww3-3rxj-8v6q.json"
+    }
+  },
+  {
+    "name": "GHSA-543v-gj2c-r3ch.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-543v-gj2c-r3ch/GHSA-543v-gj2c-r3ch.json",
+    "sha": "45b60a691fd7abb9796d65ecf4576d17ccf8eb85",
+    "size": 3414,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-543v-gj2c-r3ch/GHSA-543v-gj2c-r3ch.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-543v-gj2c-r3ch/GHSA-543v-gj2c-r3ch.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/45b60a691fd7abb9796d65ecf4576d17ccf8eb85",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-543v-gj2c-r3ch/GHSA-543v-gj2c-r3ch.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-543v-gj2c-r3ch/GHSA-543v-gj2c-r3ch.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/45b60a691fd7abb9796d65ecf4576d17ccf8eb85",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-543v-gj2c-r3ch/GHSA-543v-gj2c-r3ch.json"
+    }
+  },
+  {
+    "name": "GHSA-552w-rqg8-gxxm.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-552w-rqg8-gxxm/GHSA-552w-rqg8-gxxm.json",
+    "sha": "5eaba79acebccaf8f80813794378d5e65081e2de",
+    "size": 1435,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-552w-rqg8-gxxm/GHSA-552w-rqg8-gxxm.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-552w-rqg8-gxxm/GHSA-552w-rqg8-gxxm.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/5eaba79acebccaf8f80813794378d5e65081e2de",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-552w-rqg8-gxxm/GHSA-552w-rqg8-gxxm.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-552w-rqg8-gxxm/GHSA-552w-rqg8-gxxm.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/5eaba79acebccaf8f80813794378d5e65081e2de",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-552w-rqg8-gxxm/GHSA-552w-rqg8-gxxm.json"
+    }
+  },
+  {
+    "name": "GHSA-5726-g6r9-5f22.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-5726-g6r9-5f22/GHSA-5726-g6r9-5f22.json",
+    "sha": "d2bba69482007d89eeefac8a41e6af2c348eb6cf",
+    "size": 1995,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-5726-g6r9-5f22/GHSA-5726-g6r9-5f22.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-5726-g6r9-5f22/GHSA-5726-g6r9-5f22.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/d2bba69482007d89eeefac8a41e6af2c348eb6cf",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-5726-g6r9-5f22/GHSA-5726-g6r9-5f22.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-5726-g6r9-5f22/GHSA-5726-g6r9-5f22.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/d2bba69482007d89eeefac8a41e6af2c348eb6cf",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-5726-g6r9-5f22/GHSA-5726-g6r9-5f22.json"
+    }
+  },
+  {
+    "name": "GHSA-574q-fxfj-wv6h.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-574q-fxfj-wv6h/GHSA-574q-fxfj-wv6h.json",
+    "sha": "b5887bfa220154d209123ff83860efa4182635f3",
+    "size": 2190,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-574q-fxfj-wv6h/GHSA-574q-fxfj-wv6h.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-574q-fxfj-wv6h/GHSA-574q-fxfj-wv6h.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/b5887bfa220154d209123ff83860efa4182635f3",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-574q-fxfj-wv6h/GHSA-574q-fxfj-wv6h.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-574q-fxfj-wv6h/GHSA-574q-fxfj-wv6h.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/b5887bfa220154d209123ff83860efa4182635f3",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-574q-fxfj-wv6h/GHSA-574q-fxfj-wv6h.json"
+    }
+  },
+  {
+    "name": "GHSA-59c7-4xj2-hgvw.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-59c7-4xj2-hgvw/GHSA-59c7-4xj2-hgvw.json",
+    "sha": "1781458e7194dff0c67fa6fa119a3dbc0ccaf76f",
+    "size": 2540,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-59c7-4xj2-hgvw/GHSA-59c7-4xj2-hgvw.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-59c7-4xj2-hgvw/GHSA-59c7-4xj2-hgvw.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/1781458e7194dff0c67fa6fa119a3dbc0ccaf76f",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-59c7-4xj2-hgvw/GHSA-59c7-4xj2-hgvw.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-59c7-4xj2-hgvw/GHSA-59c7-4xj2-hgvw.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/1781458e7194dff0c67fa6fa119a3dbc0ccaf76f",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-59c7-4xj2-hgvw/GHSA-59c7-4xj2-hgvw.json"
+    }
+  },
+  {
+    "name": "GHSA-5j3g-jfq3-7jwx.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-5j3g-jfq3-7jwx/GHSA-5j3g-jfq3-7jwx.json",
+    "sha": "0a637a73021149e3a2c943fe0bdcfc6a07fbeaf5",
+    "size": 2012,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-5j3g-jfq3-7jwx/GHSA-5j3g-jfq3-7jwx.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-5j3g-jfq3-7jwx/GHSA-5j3g-jfq3-7jwx.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/0a637a73021149e3a2c943fe0bdcfc6a07fbeaf5",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-5j3g-jfq3-7jwx/GHSA-5j3g-jfq3-7jwx.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-5j3g-jfq3-7jwx/GHSA-5j3g-jfq3-7jwx.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/0a637a73021149e3a2c943fe0bdcfc6a07fbeaf5",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-5j3g-jfq3-7jwx/GHSA-5j3g-jfq3-7jwx.json"
+    }
+  },
+  {
+    "name": "GHSA-5vx5-9q73-wgp4.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-5vx5-9q73-wgp4/GHSA-5vx5-9q73-wgp4.json",
+    "sha": "b941c4a7f1bab4f5c7dfe652098ae736ab6cc5d4",
+    "size": 1345,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-5vx5-9q73-wgp4/GHSA-5vx5-9q73-wgp4.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-5vx5-9q73-wgp4/GHSA-5vx5-9q73-wgp4.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/b941c4a7f1bab4f5c7dfe652098ae736ab6cc5d4",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-5vx5-9q73-wgp4/GHSA-5vx5-9q73-wgp4.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-5vx5-9q73-wgp4/GHSA-5vx5-9q73-wgp4.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/b941c4a7f1bab4f5c7dfe652098ae736ab6cc5d4",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-5vx5-9q73-wgp4/GHSA-5vx5-9q73-wgp4.json"
+    }
+  },
+  {
+    "name": "GHSA-67j6-xv27-w6ww.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-67j6-xv27-w6ww/GHSA-67j6-xv27-w6ww.json",
+    "sha": "f1160298d98634b9bbe0a145bc15333fac2cd8c0",
+    "size": 1951,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-67j6-xv27-w6ww/GHSA-67j6-xv27-w6ww.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-67j6-xv27-w6ww/GHSA-67j6-xv27-w6ww.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/f1160298d98634b9bbe0a145bc15333fac2cd8c0",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-67j6-xv27-w6ww/GHSA-67j6-xv27-w6ww.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-67j6-xv27-w6ww/GHSA-67j6-xv27-w6ww.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/f1160298d98634b9bbe0a145bc15333fac2cd8c0",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-67j6-xv27-w6ww/GHSA-67j6-xv27-w6ww.json"
+    }
+  },
+  {
+    "name": "GHSA-699m-mcjm-9cw8.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-699m-mcjm-9cw8/GHSA-699m-mcjm-9cw8.json",
+    "sha": "e13433399451824585f2f92d86fcf580b8fc57f9",
+    "size": 3184,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-699m-mcjm-9cw8/GHSA-699m-mcjm-9cw8.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-699m-mcjm-9cw8/GHSA-699m-mcjm-9cw8.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/e13433399451824585f2f92d86fcf580b8fc57f9",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-699m-mcjm-9cw8/GHSA-699m-mcjm-9cw8.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-699m-mcjm-9cw8/GHSA-699m-mcjm-9cw8.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/e13433399451824585f2f92d86fcf580b8fc57f9",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-699m-mcjm-9cw8/GHSA-699m-mcjm-9cw8.json"
+    }
+  },
+  {
+    "name": "GHSA-6c8p-qphv-668v.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-6c8p-qphv-668v/GHSA-6c8p-qphv-668v.json",
+    "sha": "ada2bdddaa0ae93b0be69068529e3ec07bd368d6",
+    "size": 2082,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-6c8p-qphv-668v/GHSA-6c8p-qphv-668v.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-6c8p-qphv-668v/GHSA-6c8p-qphv-668v.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/ada2bdddaa0ae93b0be69068529e3ec07bd368d6",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-6c8p-qphv-668v/GHSA-6c8p-qphv-668v.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-6c8p-qphv-668v/GHSA-6c8p-qphv-668v.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/ada2bdddaa0ae93b0be69068529e3ec07bd368d6",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-6c8p-qphv-668v/GHSA-6c8p-qphv-668v.json"
+    }
+  },
+  {
+    "name": "GHSA-6h5q-96hp-9jgm.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-6h5q-96hp-9jgm/GHSA-6h5q-96hp-9jgm.json",
+    "sha": "f65369b961cc80bfaabf2030351700d4f1fa53ff",
+    "size": 3218,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-6h5q-96hp-9jgm/GHSA-6h5q-96hp-9jgm.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-6h5q-96hp-9jgm/GHSA-6h5q-96hp-9jgm.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/f65369b961cc80bfaabf2030351700d4f1fa53ff",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-6h5q-96hp-9jgm/GHSA-6h5q-96hp-9jgm.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-6h5q-96hp-9jgm/GHSA-6h5q-96hp-9jgm.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/f65369b961cc80bfaabf2030351700d4f1fa53ff",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-6h5q-96hp-9jgm/GHSA-6h5q-96hp-9jgm.json"
+    }
+  },
+  {
+    "name": "GHSA-6h88-qjpv-p32m.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-6h88-qjpv-p32m/GHSA-6h88-qjpv-p32m.json",
+    "sha": "10b13cdcb26dd3e54a0e28740093409b284c4e5e",
+    "size": 2229,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-6h88-qjpv-p32m/GHSA-6h88-qjpv-p32m.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-6h88-qjpv-p32m/GHSA-6h88-qjpv-p32m.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/10b13cdcb26dd3e54a0e28740093409b284c4e5e",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-6h88-qjpv-p32m/GHSA-6h88-qjpv-p32m.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-6h88-qjpv-p32m/GHSA-6h88-qjpv-p32m.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/10b13cdcb26dd3e54a0e28740093409b284c4e5e",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-6h88-qjpv-p32m/GHSA-6h88-qjpv-p32m.json"
+    }
+  },
+  {
+    "name": "GHSA-6jvm-3j5h-79f6.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-6jvm-3j5h-79f6/GHSA-6jvm-3j5h-79f6.json",
+    "sha": "8fbbecfbb66574255888cf3875210fe8360f4bce",
+    "size": 1979,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-6jvm-3j5h-79f6/GHSA-6jvm-3j5h-79f6.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-6jvm-3j5h-79f6/GHSA-6jvm-3j5h-79f6.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/8fbbecfbb66574255888cf3875210fe8360f4bce",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-6jvm-3j5h-79f6/GHSA-6jvm-3j5h-79f6.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-6jvm-3j5h-79f6/GHSA-6jvm-3j5h-79f6.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/8fbbecfbb66574255888cf3875210fe8360f4bce",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-6jvm-3j5h-79f6/GHSA-6jvm-3j5h-79f6.json"
+    }
+  },
+  {
+    "name": "GHSA-6mq2-37j5-w6r6.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-6mq2-37j5-w6r6/GHSA-6mq2-37j5-w6r6.json",
+    "sha": "0a51664ce9794683da2b9ec3ae6c62662f90b383",
+    "size": 2396,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-6mq2-37j5-w6r6/GHSA-6mq2-37j5-w6r6.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-6mq2-37j5-w6r6/GHSA-6mq2-37j5-w6r6.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/0a51664ce9794683da2b9ec3ae6c62662f90b383",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-6mq2-37j5-w6r6/GHSA-6mq2-37j5-w6r6.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-6mq2-37j5-w6r6/GHSA-6mq2-37j5-w6r6.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/0a51664ce9794683da2b9ec3ae6c62662f90b383",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-6mq2-37j5-w6r6/GHSA-6mq2-37j5-w6r6.json"
+    }
+  },
+  {
+    "name": "GHSA-6x46-7rrv-m4h8.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-6x46-7rrv-m4h8/GHSA-6x46-7rrv-m4h8.json",
+    "sha": "5b5055658619384c739414d37ee862e57ebef781",
+    "size": 1758,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-6x46-7rrv-m4h8/GHSA-6x46-7rrv-m4h8.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-6x46-7rrv-m4h8/GHSA-6x46-7rrv-m4h8.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/5b5055658619384c739414d37ee862e57ebef781",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-6x46-7rrv-m4h8/GHSA-6x46-7rrv-m4h8.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-6x46-7rrv-m4h8/GHSA-6x46-7rrv-m4h8.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/5b5055658619384c739414d37ee862e57ebef781",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-6x46-7rrv-m4h8/GHSA-6x46-7rrv-m4h8.json"
+    }
+  },
+  {
+    "name": "GHSA-6x85-j5j2-27jx.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-6x85-j5j2-27jx/GHSA-6x85-j5j2-27jx.json",
+    "sha": "9f96e7ce2c8cb3b584ecf82ff0006b0b15d25dfd",
+    "size": 2441,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-6x85-j5j2-27jx/GHSA-6x85-j5j2-27jx.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-6x85-j5j2-27jx/GHSA-6x85-j5j2-27jx.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/9f96e7ce2c8cb3b584ecf82ff0006b0b15d25dfd",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-6x85-j5j2-27jx/GHSA-6x85-j5j2-27jx.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-6x85-j5j2-27jx/GHSA-6x85-j5j2-27jx.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/9f96e7ce2c8cb3b584ecf82ff0006b0b15d25dfd",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-6x85-j5j2-27jx/GHSA-6x85-j5j2-27jx.json"
+    }
+  },
+  {
+    "name": "GHSA-73qw-ww62-m54x.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-73qw-ww62-m54x/GHSA-73qw-ww62-m54x.json",
+    "sha": "a114f9416b56a4d40784f3204b2e31ad2e1b836c",
+    "size": 1691,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-73qw-ww62-m54x/GHSA-73qw-ww62-m54x.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-73qw-ww62-m54x/GHSA-73qw-ww62-m54x.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/a114f9416b56a4d40784f3204b2e31ad2e1b836c",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-73qw-ww62-m54x/GHSA-73qw-ww62-m54x.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-73qw-ww62-m54x/GHSA-73qw-ww62-m54x.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/a114f9416b56a4d40784f3204b2e31ad2e1b836c",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-73qw-ww62-m54x/GHSA-73qw-ww62-m54x.json"
+    }
+  },
+  {
+    "name": "GHSA-75w6-p6mg-vh8j.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-75w6-p6mg-vh8j/GHSA-75w6-p6mg-vh8j.json",
+    "sha": "0272803a0d9eb81e359df534057c9e9e9a25029a",
+    "size": 2766,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-75w6-p6mg-vh8j/GHSA-75w6-p6mg-vh8j.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-75w6-p6mg-vh8j/GHSA-75w6-p6mg-vh8j.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/0272803a0d9eb81e359df534057c9e9e9a25029a",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-75w6-p6mg-vh8j/GHSA-75w6-p6mg-vh8j.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-75w6-p6mg-vh8j/GHSA-75w6-p6mg-vh8j.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/0272803a0d9eb81e359df534057c9e9e9a25029a",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-75w6-p6mg-vh8j/GHSA-75w6-p6mg-vh8j.json"
+    }
+  },
+  {
+    "name": "GHSA-76wq-xw4h-f8wj.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-76wq-xw4h-f8wj/GHSA-76wq-xw4h-f8wj.json",
+    "sha": "659dfbd72f98c094bb4ebb352a8d8730020254c9",
+    "size": 2792,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-76wq-xw4h-f8wj/GHSA-76wq-xw4h-f8wj.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-76wq-xw4h-f8wj/GHSA-76wq-xw4h-f8wj.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/659dfbd72f98c094bb4ebb352a8d8730020254c9",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-76wq-xw4h-f8wj/GHSA-76wq-xw4h-f8wj.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-76wq-xw4h-f8wj/GHSA-76wq-xw4h-f8wj.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/659dfbd72f98c094bb4ebb352a8d8730020254c9",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-76wq-xw4h-f8wj/GHSA-76wq-xw4h-f8wj.json"
+    }
+  },
+  {
+    "name": "GHSA-78j3-7wpm-qhvp.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-78j3-7wpm-qhvp/GHSA-78j3-7wpm-qhvp.json",
+    "sha": "42bcda48b12a830114372e89cbbfc54a2b739780",
+    "size": 1454,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-78j3-7wpm-qhvp/GHSA-78j3-7wpm-qhvp.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-78j3-7wpm-qhvp/GHSA-78j3-7wpm-qhvp.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/42bcda48b12a830114372e89cbbfc54a2b739780",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-78j3-7wpm-qhvp/GHSA-78j3-7wpm-qhvp.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-78j3-7wpm-qhvp/GHSA-78j3-7wpm-qhvp.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/42bcda48b12a830114372e89cbbfc54a2b739780",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-78j3-7wpm-qhvp/GHSA-78j3-7wpm-qhvp.json"
+    }
+  },
+  {
+    "name": "GHSA-78rc-8c29-p45g.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-78rc-8c29-p45g/GHSA-78rc-8c29-p45g.json",
+    "sha": "738ad488053332b348b92817d37795ab489bad6c",
+    "size": 3673,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-78rc-8c29-p45g/GHSA-78rc-8c29-p45g.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-78rc-8c29-p45g/GHSA-78rc-8c29-p45g.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/738ad488053332b348b92817d37795ab489bad6c",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-78rc-8c29-p45g/GHSA-78rc-8c29-p45g.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-78rc-8c29-p45g/GHSA-78rc-8c29-p45g.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/738ad488053332b348b92817d37795ab489bad6c",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-78rc-8c29-p45g/GHSA-78rc-8c29-p45g.json"
+    }
+  },
+  {
+    "name": "GHSA-7cgp-c3g7-qvrw.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-7cgp-c3g7-qvrw/GHSA-7cgp-c3g7-qvrw.json",
+    "sha": "4ff158e628dd351df8868734e970b7e72d2f7868",
+    "size": 2244,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-7cgp-c3g7-qvrw/GHSA-7cgp-c3g7-qvrw.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-7cgp-c3g7-qvrw/GHSA-7cgp-c3g7-qvrw.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/4ff158e628dd351df8868734e970b7e72d2f7868",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-7cgp-c3g7-qvrw/GHSA-7cgp-c3g7-qvrw.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-7cgp-c3g7-qvrw/GHSA-7cgp-c3g7-qvrw.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/4ff158e628dd351df8868734e970b7e72d2f7868",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-7cgp-c3g7-qvrw/GHSA-7cgp-c3g7-qvrw.json"
+    }
+  },
+  {
+    "name": "GHSA-7fqj-cg79-f2pv.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-7fqj-cg79-f2pv/GHSA-7fqj-cg79-f2pv.json",
+    "sha": "6ea2efb74098fe3de5109f933262db6d516b7b3b",
+    "size": 1672,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-7fqj-cg79-f2pv/GHSA-7fqj-cg79-f2pv.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-7fqj-cg79-f2pv/GHSA-7fqj-cg79-f2pv.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/6ea2efb74098fe3de5109f933262db6d516b7b3b",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-7fqj-cg79-f2pv/GHSA-7fqj-cg79-f2pv.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-7fqj-cg79-f2pv/GHSA-7fqj-cg79-f2pv.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/6ea2efb74098fe3de5109f933262db6d516b7b3b",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-7fqj-cg79-f2pv/GHSA-7fqj-cg79-f2pv.json"
+    }
+  },
+  {
+    "name": "GHSA-7g65-ghrg-hpf5.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-7g65-ghrg-hpf5/GHSA-7g65-ghrg-hpf5.json",
+    "sha": "0dbfd50ed08e53ea881e127d48a2992d43513472",
+    "size": 2416,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-7g65-ghrg-hpf5/GHSA-7g65-ghrg-hpf5.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-7g65-ghrg-hpf5/GHSA-7g65-ghrg-hpf5.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/0dbfd50ed08e53ea881e127d48a2992d43513472",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-7g65-ghrg-hpf5/GHSA-7g65-ghrg-hpf5.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-7g65-ghrg-hpf5/GHSA-7g65-ghrg-hpf5.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/0dbfd50ed08e53ea881e127d48a2992d43513472",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-7g65-ghrg-hpf5/GHSA-7g65-ghrg-hpf5.json"
+    }
+  },
+  {
+    "name": "GHSA-84fq-6626-w5fg.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-84fq-6626-w5fg/GHSA-84fq-6626-w5fg.json",
+    "sha": "ae3f0bfb21cf3dabb6ddfa5d06f5a40be3abcc67",
+    "size": 1967,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-84fq-6626-w5fg/GHSA-84fq-6626-w5fg.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-84fq-6626-w5fg/GHSA-84fq-6626-w5fg.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/ae3f0bfb21cf3dabb6ddfa5d06f5a40be3abcc67",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-84fq-6626-w5fg/GHSA-84fq-6626-w5fg.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-84fq-6626-w5fg/GHSA-84fq-6626-w5fg.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/ae3f0bfb21cf3dabb6ddfa5d06f5a40be3abcc67",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-84fq-6626-w5fg/GHSA-84fq-6626-w5fg.json"
+    }
+  },
+  {
+    "name": "GHSA-85r7-w5mv-c849.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-85r7-w5mv-c849/GHSA-85r7-w5mv-c849.json",
+    "sha": "658e970b6e6fbae417fe56b7ee2a1e739ccd5bc9",
+    "size": 2755,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-85r7-w5mv-c849/GHSA-85r7-w5mv-c849.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-85r7-w5mv-c849/GHSA-85r7-w5mv-c849.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/658e970b6e6fbae417fe56b7ee2a1e739ccd5bc9",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-85r7-w5mv-c849/GHSA-85r7-w5mv-c849.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-85r7-w5mv-c849/GHSA-85r7-w5mv-c849.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/658e970b6e6fbae417fe56b7ee2a1e739ccd5bc9",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-85r7-w5mv-c849/GHSA-85r7-w5mv-c849.json"
+    }
+  },
+  {
+    "name": "GHSA-87vv-r9j6-g5qv.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-87vv-r9j6-g5qv/GHSA-87vv-r9j6-g5qv.json",
+    "sha": "872e1d36f016e77498bc69bed9d8696de8ace2e4",
+    "size": 3402,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-87vv-r9j6-g5qv/GHSA-87vv-r9j6-g5qv.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-87vv-r9j6-g5qv/GHSA-87vv-r9j6-g5qv.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/872e1d36f016e77498bc69bed9d8696de8ace2e4",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-87vv-r9j6-g5qv/GHSA-87vv-r9j6-g5qv.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-87vv-r9j6-g5qv/GHSA-87vv-r9j6-g5qv.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/872e1d36f016e77498bc69bed9d8696de8ace2e4",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-87vv-r9j6-g5qv/GHSA-87vv-r9j6-g5qv.json"
+    }
+  },
+  {
+    "name": "GHSA-8fqx-7pv4-3jwm.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-8fqx-7pv4-3jwm/GHSA-8fqx-7pv4-3jwm.json",
+    "sha": "d6715094b7943cd4856952aacafd98578fd7914e",
+    "size": 2767,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-8fqx-7pv4-3jwm/GHSA-8fqx-7pv4-3jwm.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-8fqx-7pv4-3jwm/GHSA-8fqx-7pv4-3jwm.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/d6715094b7943cd4856952aacafd98578fd7914e",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-8fqx-7pv4-3jwm/GHSA-8fqx-7pv4-3jwm.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-8fqx-7pv4-3jwm/GHSA-8fqx-7pv4-3jwm.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/d6715094b7943cd4856952aacafd98578fd7914e",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-8fqx-7pv4-3jwm/GHSA-8fqx-7pv4-3jwm.json"
+    }
+  },
+  {
+    "name": "GHSA-8jxj-9r5f-w3m2.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-8jxj-9r5f-w3m2/GHSA-8jxj-9r5f-w3m2.json",
+    "sha": "e596ae622b83de50697e239c038a3c4815d90083",
+    "size": 2047,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-8jxj-9r5f-w3m2/GHSA-8jxj-9r5f-w3m2.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-8jxj-9r5f-w3m2/GHSA-8jxj-9r5f-w3m2.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/e596ae622b83de50697e239c038a3c4815d90083",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-8jxj-9r5f-w3m2/GHSA-8jxj-9r5f-w3m2.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-8jxj-9r5f-w3m2/GHSA-8jxj-9r5f-w3m2.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/e596ae622b83de50697e239c038a3c4815d90083",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-8jxj-9r5f-w3m2/GHSA-8jxj-9r5f-w3m2.json"
+    }
+  },
+  {
+    "name": "GHSA-8qrh-h9m2-5fvf.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-8qrh-h9m2-5fvf/GHSA-8qrh-h9m2-5fvf.json",
+    "sha": "a9b697755ff18c68cb9b4193edf53b603e6de099",
+    "size": 2958,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-8qrh-h9m2-5fvf/GHSA-8qrh-h9m2-5fvf.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-8qrh-h9m2-5fvf/GHSA-8qrh-h9m2-5fvf.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/a9b697755ff18c68cb9b4193edf53b603e6de099",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-8qrh-h9m2-5fvf/GHSA-8qrh-h9m2-5fvf.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-8qrh-h9m2-5fvf/GHSA-8qrh-h9m2-5fvf.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/a9b697755ff18c68cb9b4193edf53b603e6de099",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-8qrh-h9m2-5fvf/GHSA-8qrh-h9m2-5fvf.json"
+    }
+  },
+  {
+    "name": "GHSA-8r6h-7x9g-xmw9.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-8r6h-7x9g-xmw9/GHSA-8r6h-7x9g-xmw9.json",
+    "sha": "acf444a979376914ab23bdbf8e331315f7234979",
+    "size": 1581,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-8r6h-7x9g-xmw9/GHSA-8r6h-7x9g-xmw9.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-8r6h-7x9g-xmw9/GHSA-8r6h-7x9g-xmw9.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/acf444a979376914ab23bdbf8e331315f7234979",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-8r6h-7x9g-xmw9/GHSA-8r6h-7x9g-xmw9.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-8r6h-7x9g-xmw9/GHSA-8r6h-7x9g-xmw9.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/acf444a979376914ab23bdbf8e331315f7234979",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-8r6h-7x9g-xmw9/GHSA-8r6h-7x9g-xmw9.json"
+    }
+  },
+  {
+    "name": "GHSA-92v7-pq4h-58j5.json",
+    "path": "advisories/github-reviewed/2017/10/GHSA-92v7-pq4h-58j5/GHSA-92v7-pq4h-58j5.json",
+    "sha": "de241ad443e438401cc7e8a261959392f1276e76",
+    "size": 3777,
+    "url": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-92v7-pq4h-58j5/GHSA-92v7-pq4h-58j5.json?ref=main",
+    "html_url": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-92v7-pq4h-58j5/GHSA-92v7-pq4h-58j5.json",
+    "git_url": "https://api.github.com/repos/github/advisory-database/git/blobs/de241ad443e438401cc7e8a261959392f1276e76",
+    "download_url": "https://raw.githubusercontent.com/github/advisory-database/main/advisories/github-reviewed/2017/10/GHSA-92v7-pq4h-58j5/GHSA-92v7-pq4h-58j5.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/github/advisory-database/contents/advisories/github-reviewed/2017/10/GHSA-92v7-pq4h-58j5/GHSA-92v7-pq4h-58j5.json?ref=main",
+      "git": "https://api.github.com/repos/github/advisory-database/git/blobs/de241ad443e438401cc7e8a261959392f1276e76",
+      "html": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2017/10/GHSA-92v7-pq4h-58j5/GHSA-92v7-pq4h-58j5.json"
+    }
+  }
+]
