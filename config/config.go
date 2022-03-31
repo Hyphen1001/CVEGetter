@@ -33,6 +33,7 @@ func InitConfigWithConfPath(path string) {
 	if err != nil {
 		panic(fmt.Errorf("unmarshal config failed, err is: %w", err))
 	}
+	config.AimLanguagesMap = map[string]bool{}
 	for _, language := range config.AimLanguages {
 		config.AimLanguagesMap[language] = true
 	}
