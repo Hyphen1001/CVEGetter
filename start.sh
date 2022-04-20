@@ -12,4 +12,8 @@ go build -v -o ./output/main
 
 cd output
 
-./main
+export https_proxy=socks5://localhost:1080
+./main > $(date +"%Y_%m_%d_%H_%M.log") 2> $(date +"%Y_%m_%d_%H_%M.error.log")
+
+cd ..
+mv --backup=t output results
